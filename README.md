@@ -48,7 +48,6 @@ Hello, I'm Harsh, this repository is managed by me, and my aim is to keep a simp
 
 - [Youtube channel recommendations](https://www.reddit.com/r/JEENEETards/comments/wne7nt/gr8_underrated_youtube_channels_for_jee_advanced/)
 
-<br>
 
 ### Study material for JEE and NEET
 
@@ -66,7 +65,6 @@ Hello, I'm Harsh, this repository is managed by me, and my aim is to keep a simp
 
 - [Fastlane lectures website](https://www.reddit.com/r/JEENEETards/comments/z399tq/creating_a_site_for_systematic_and_easy_access_of/)
 
-<br>
 
 ### Notes from members of subreddit [r/JEENEETards](https://www.reddit.com/r/JEENEETards)
 
