@@ -1,6 +1,6 @@
 Hello, I'm Harsh, this repository is managed by me, and my aim is to keep a simple place for all the stuff and important links related to competitive exams (*mainly jee*) and that's why I choose GitHub so that it'll be easy to access and contribute
 
-**Anyone who want to upload something (*like discussion, material etc*) just add them [here](https://github.com/harshkad/jeeneet.stuff/issues/new)**
+**Anyone who want to upload something (*like discussion, material etc*) just add them [here](https://github.com/harshkad/jeeneet.stuff/issues/new)** (*you need to create account on GitHub for that kid*)
 
 > **Note**  
 > I'll also try to keep it up updated and these links or discussions are taken from internet and people who created those are 😘
