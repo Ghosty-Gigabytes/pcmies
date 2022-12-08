@@ -78,7 +78,7 @@ Hello, I'm Harsh, this repository is managed by me, and my aim is to keep a simp
 
 - [u/psychotic_cock69 notes Archive](https://www.reddit.com/r/undefined/comments/u6hhuk/comment/i58bbki/?utm_source=share&utm_medium=web2x&context=3)
 
-- [Hydrocarbons Revision Notes](https://www.reddit.com/r/JEENEETards/comments/uct2ze/alkanes_alkenes_reagents_ncert_imp_points/?utm_source=share&utm_medium=web2x&context=3)  by  [u/Individual-Eagle759](https://www.reddit.com/u/Individual-Eagle759)
+- [Hydrocarbons Revision Notes](https://imgur.com/gallery/psIyMh1)  by  [u/Individual-Eagle759](https://www.reddit.com/u/Individual-Eagle759)
 
 - [Electrostatics Revision Notes](https://www.reddit.com/r/JEENEETards/comments/u5gtmz/electric_charges_fields_notes_in_8_pages/?utm_source=share&utm_medium=web2x&context=3)  by  [u/Sphygmomanometer_02](https://www.reddit.com/u/Sphygmomanometer_02)
 
