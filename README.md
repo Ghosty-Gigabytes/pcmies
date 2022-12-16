@@ -87,3 +87,23 @@ Anyone who want to upload something (*like discussion, material etc*) just add t
 - [Free e books resource](https://drive.google.com/drive/folders/1v14rJL89oR672KS8DMb2eSgOZkTAq9k_?usp=sharing)  by  [u/Empty-Safe-6770](https://www.reddit.com/u/Empty-Safe-6770)
 
 - [Notes all subjects](https://www.reddit.com/r/JEENEETards/comments/xl8jih/all_my_notes_goodbye_d/)  by  [u/mohit_tyagi](https://www.reddit.com/u/mohit_tyagi)
+
+### Telegram Groups
+
+- [JEENEETards Telegram](https://www.google.com/url?q=https://telegram.me/JEENEETardsTelegram)
+
+- [Test Series by Various Institutes](https://www.google.com/url?q=https://telegram.me/Test_Series_For_Jee)
+
+- [Very useful bot for materials](https://www.google.com/url?q=https://telegram.me/Tarun2004bot)
+
+- [Bitsat News](https://www.google.com/url?q=https://telegram.me/BITSAT_2022)
+
+- [Prayas Kota](https://www.google.com/url?q=https://telegram.me/+ipttk90JqzE4ZmFl)
+
+- [Fastlane Lectures](https://www.google.com/url?q=https://telegram.me/+MiF_qBmOWcY5YjJl)
+
+- [Sri Chaitanya Materials](https://www.google.com/url?q=https://telegram.me/jeeforyou1)
+
+- [Other Misc Stuff](https://www.google.com/url?q=https://telegram.me/iit_jee_mains_advanced_material)
+
+- [JEE NEET Discussion Group](https://www.google.com/url?q=https://telegram.me/jee_neet_discussion_group)
