@@ -1,12 +1,12 @@
 Hello, I'm Harsh, this repository is managed by me, and my aim is to keep a simple place for all the stuff and important links related to competitive exams (*mainly jee*) and that's why I choose GitHub so that it'll be easy to access and contribute
 
-Anyone who want to upload something (*like discussion, material etc*) just add them [here](https://github.com/harshkad/jeeneet.stuff/issues/new) (*you need to create account on GitHub for that*)
+Anyone who want to upload something (*like discussion, material etc.*) just add them [here](https://github.com/harshkad/jeeneet.stuff/issues/new) (*you need to create account on GitHub for that*)
 
 > **Note**  
-> I'll also try to keep it up updated and these links or discussions are taken from internet and thanks to lovely people who created
+> I'll also try to keep it up updated and these links or discussions are taken from internet and thanks to lovely people who created.
 
 > **Warning**  
-> If any link is broken don't blame me just search for new material anywhere else
+> If any link is broken don't blame me just search for new material anywhere else.
 
 ### Links and Discussions
 
@@ -53,6 +53,10 @@ Anyone who want to upload something (*like discussion, material etc*) just add t
 
 ### Study material for JEE and NEET
 
+- [Disha 43 years PYQs](https://drive.google.com/drive/folders/1iZx6KDmSy0kpZEUJRRaLn17xDJNAXMYR?usp=share_link)
+
+- [Resonance Sheets](https://drive.google.com/drive/folders/1gTroyJg3lNVQHxHXhYv4KQ_M14l02q1N?usp=share_link)
+
 - [Organized Subject Wise JEE Material](https://drive.google.com/drive/folders/1-5sTDPA1aK5y6dwY-wyHfeAPdRUB9dpG)
 
 - [Allen DLP Zip File](https://drive.google.com/file/d/1D9napBdRIqT2wdYRiefjf_yQfgxwIEMj/view)
@@ -66,6 +70,8 @@ Anyone who want to upload something (*like discussion, material etc*) just add t
 - [JEE final sauce compilation](https://www.reddit.com/r/JEENEETards/comments/x82u7l/final_sauce_compilation_for_jee_2023tards/?utm_source=share&utm_medium=web2x&context=3)
 
 - [Fastlane lectures website](https://www.reddit.com/r/JEENEETards/comments/z399tq/creating_a_site_for_systematic_and_easy_access_of/)
+
+- **[Last Material Link for JEE you'll ever need, almost all material is available in this](https://drive.google.com/drive/folders/1G85ClGqb-M69rRMARVXDEFhTApQhiteV?usp=share_link)**
 
 
 ### Notes from members of subreddit [r/JEENEETards](https://www.reddit.com/r/JEENEETards)
