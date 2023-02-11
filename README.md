@@ -1,12 +1,15 @@
 Hello, I'm Harsh, this repository is managed by me, and my aim is to keep a simple place for all the stuff and important links related to competitive exams (*mainly jee*) and that's why I choose GitHub so that it'll be easy to access and contribute
 
-Anyone who want to upload something (*like discussion, material etc.*) just add them [here](https://github.com/harshkad/jeeneet.stuff/issues/new) (*you need to create account on GitHub for that*)
+Anyone who want to add something (*like discussion, material etc.*) just add them [here](https://github.com/harshkad/jeeneet.stuff/issues/new) (*you need to create account on GitHub for that*)
+
+![Counter](https://visitor_badge.deta.dev/?id=harshkad.pcmies&type=pv&style=plastic&color=blue&label=visitors)
 
 > **Note**  
 > I'll also try to keep it up updated, don't try to copy this and use it as your work please 😥 I'm working on this to make this a large repository, be supportive and these links or discussions are taken from internet and thanks to lovely people who created.
 
 ### Links and Discussions
 
+- [How do I study consistently for hours](https://qr.ae/pvWqdN)
 - [What are class 12 CBSE board exam tips and suggestions?](https://qr.ae/prboB5)
 - [How do I score above 90% in the CBSE class 12?](https://www.quora.com/How-do-I-get-90-%2B-in-12-CBSE/answer/Saumya-Meena-2)
 - [Dont believe everything you read online](https://www.reddit.com/r/JEENEETards/comments/10otprw/dont_believe_everything_you_read_online/) 
