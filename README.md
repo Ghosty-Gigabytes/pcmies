@@ -7,6 +7,7 @@ Anyone who want to upload something (*like discussion, material etc.*) just add 
 
 ### Links and Discussions
 
+- [How do I study consistently for hours](https://qr.ae/pvWqdN)
 - [What are class 12 CBSE board exam tips and suggestions?](https://qr.ae/prboB5)
 - [How do I score above 90% in the CBSE class 12?](https://www.quora.com/How-do-I-get-90-%2B-in-12-CBSE/answer/Saumya-Meena-2)
 - [Dont believe everything you read online](https://www.reddit.com/r/JEENEETards/comments/10otprw/dont_believe_everything_you_read_online/) 
