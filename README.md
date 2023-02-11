@@ -3,13 +3,15 @@ Hello, I'm Harsh, this repository is managed by me, and my aim is to keep a simp
 Anyone who want to upload something (*like discussion, material etc.*) just add them [here](https://github.com/harshkad/jeeneet.stuff/issues/new) (*you need to create account on GitHub for that*)
 
 > **Note**  
-> I'll also try to keep it up updated and these links or discussions are taken from internet and thanks to lovely people who created.
-
-> **Warning**  
-> If any link is broken don't blame me just search for new material anywhere else.
+> I'll also try to keep it up updated, don't try to copy this and use it as your work please 😥 I'm working on this to make this a large repository, be supportive and these links or discussions are taken from internet and thanks to lovely people who created.
 
 ### Links and Discussions
 
+- [What are class 12 CBSE board exam tips and suggestions?](https://qr.ae/prboB5)
+- [How do I score above 90% in the CBSE class 12?](https://www.quora.com/How-do-I-get-90-%2B-in-12-CBSE/answer/Saumya-Meena-2)
+- [Dont believe everything you read online](https://www.reddit.com/r/JEENEETards/comments/10otprw/dont_believe_everything_you_read_online/) 
+- [Some good pen recommendations from aspirants](https://www.reddit.com/r/JEENEETards/comments/10zfanj/this_is_for_sabki_mild_entertainment_acche_se/)
+- [Chemistry from Scratch Unacademy](https://drive.google.com/file/d/1FTwMLVh9R_Qhyy0dR-lsemWHB6wuiIKC/view)
 - [Best YouTube channels for JEE Main & Advanced preparation](https://www.reddit.com/r/JEENEETards/comments/pzc33l/request_to_mods_reupload_with_changes_hope_this/)
 - [Best Books for JEE Main & Advanced preparation](https://www.reddit.com/r/JEENEETards/comments/q1vsvc/jeeneet_manual_for_books_requesting_mods_to_add/) 
 - [My jee experience + tips](https://www.reddit.com/r/JEENEETards/comments/wz4610/6_years_in_16_mins_maybe_youll_learn_something/) 
