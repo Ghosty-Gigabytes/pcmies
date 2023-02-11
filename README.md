@@ -3,10 +3,7 @@ Hello, I'm Harsh, this repository is managed by me, and my aim is to keep a simp
 Anyone who want to upload something (*like discussion, material etc.*) just add them [here](https://github.com/harshkad/jeeneet.stuff/issues/new) (*you need to create account on GitHub for that*)
 
 > **Note**  
-> I'll also try to keep it up updated and these links or discussions are taken from internet and thanks to lovely people who created.
-
-> **Warning**  
-> If any link is broken don't blame me just search for new material anywhere else.
+> I'll also try to keep it up updated, don't try to copy this and use it as your work please 😥 I'm working on this to make this a large repository, be supportive and these links or discussions are taken from internet and thanks to lovely people who created.
 
 ### Links and Discussions
 
