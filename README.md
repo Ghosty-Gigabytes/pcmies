@@ -2,7 +2,7 @@ Hello, I'm Harsh, this repository is managed by me, and my aim is to keep a simp
 
 Anyone who want to add something (*like discussion, material etc.*) just add them [here](https://github.com/harshkad/jeeneet.stuff/issues/new) (*you need to create account on GitHub for that*)
 
-![Counter](https://visitor_badge.deta.dev/?id=harshkad.pcmies&type=pv&style=plastic&color=blue&label=visitors)
+![Counter](https://visitor_badge.deta.dev/?id=harshkad.pcmies&type=pv&style=flat&color=blue&label=visitors)
 
 > **Note**  
 > I'll also try to keep it up updated, don't try to copy this and use it as your work please 😥 I'm working on this to make this a large repository, be supportive and these links or discussions are taken from internet and thanks to lovely people who created.
