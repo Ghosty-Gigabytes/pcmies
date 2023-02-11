@@ -10,6 +10,9 @@ Anyone who want to upload something (*like discussion, material etc.*) just add 
 
 ### Links and Discussions
 
+- [Dont believe everything you read online](https://www.reddit.com/r/JEENEETards/comments/10otprw/dont_believe_everything_you_read_online/) 
+- [Some good pen recommendations from aspirants](https://www.reddit.com/r/JEENEETards/comments/10zfanj/this_is_for_sabki_mild_entertainment_acche_se/)
+- [Chemistry from Scratch Unacademy](https://drive.google.com/file/d/1FTwMLVh9R_Qhyy0dR-lsemWHB6wuiIKC/view)
 - [Best YouTube channels for JEE Main & Advanced preparation](https://www.reddit.com/r/JEENEETards/comments/pzc33l/request_to_mods_reupload_with_changes_hope_this/)
 - [Best Books for JEE Main & Advanced preparation](https://www.reddit.com/r/JEENEETards/comments/q1vsvc/jeeneet_manual_for_books_requesting_mods_to_add/) 
 - [My jee experience + tips](https://www.reddit.com/r/JEENEETards/comments/wz4610/6_years_in_16_mins_maybe_youll_learn_something/) 
