@@ -7,6 +7,8 @@ Anyone who want to upload something (*like discussion, material etc.*) just add 
 
 ### Links and Discussions
 
+- [What are class 12 CBSE board exam tips and suggestions?](https://qr.ae/prboB5)
+- [How do I score above 90% in the CBSE class 12?](https://www.quora.com/How-do-I-get-90-%2B-in-12-CBSE/answer/Saumya-Meena-2)
 - [Dont believe everything you read online](https://www.reddit.com/r/JEENEETards/comments/10otprw/dont_believe_everything_you_read_online/) 
 - [Some good pen recommendations from aspirants](https://www.reddit.com/r/JEENEETards/comments/10zfanj/this_is_for_sabki_mild_entertainment_acche_se/)
 - [Chemistry from Scratch Unacademy](https://drive.google.com/file/d/1FTwMLVh9R_Qhyy0dR-lsemWHB6wuiIKC/view)
