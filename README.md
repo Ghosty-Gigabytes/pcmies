@@ -72,3 +72,48 @@ Anyone who want to add something (*like discussion, material etc.*) just add the
 - [Sri Chaitanya Materials](https://www.google.com/url?q=https://telegram.me/jeeforyou1)
 - [Other Misc Stuff](https://www.google.com/url?q=https://telegram.me/iit_jee_mains_advanced_material)
 - [JEE NEET Discussion Group](https://www.google.com/url?q=https://telegram.me/jee_neet_discussion_group)
+
+### Mohti Tyagi Maths Lectures
+
+**Calculus**
+
+-   [Function](https://www.youtube.com/playlist?list=PL_A4M5IAkMad5zB0Dh6gUw1eYK8dN7hP7)
+-   [Limits](https://www.youtube.com/playlist?list=PL_A4M5IAkMaexM2nxZt512ESPt83EshJq)
+-   [Continuity](https://www.youtube.com/playlist?list=PL_A4M5IAkMafj2vfy6rQHtTzgA_TnJsZ_)
+-   [Differentiability](https://www.youtube.com/playlist?list=PL_A4M5IAkMafj2vfy6rQHtTzgA_TnJsZ_)
+-   [Differentiation](https://www.youtube.com/playlist?list=PL_A4M5IAkMaeewzwCJPpL65y1HV0VAiC4)
+-   [Application of Derivatives](https://www.youtube.com/playlist?list=PL_A4M5IAkMacK_BU3vfAcCOuOJtQOHNfI)
+-   [Indefinite Integration](https://www.youtube.com/playlist?list=PL_A4M5IAkMacK7OyqPwHe0rvG4KqxFIum)
+-   [Definite Integration](https://www.youtube.com/playlist?list=PL_A4M5IAkMafGD8xJhm9IioyF_norREYN)
+-   [Differential Equation](https://www.youtube.com/playlist?list=PL_A4M5IAkMaeukUFW7G-KjoL-K2T3B3Mg)
+-   [Area Under The Curves ](https://www.youtube.com/playlist?list=PL_A4M5IAkMaf8TqINqRXRlWeuFgl6fBgf)
+
+**Algebra**
+
+-   [Basic Mathematics - Inequalities](https://www.youtube.com/playlist?list=PL_A4M5IAkMafig81EHnu345hUAHXOhe46)
+-   [Logarithm](https://www.youtube.com/playlist?list=PL_A4M5IAkMadF2rExT0C-TvtH2vn3dLGR)
+-   [Quadratic Equation and Expressions](https://www.youtube.com/playlist?list=PL_A4M5IAkMaf5Ga3nQJe-gg-0zXG77YRB)
+-   [Progression and Series](https://www.youtube.com/playlist?list=PL_A4M5IAkMaeu--QWWngkEI10RKOXf8TF)
+-   [Binomial Theorem](https://www.youtube.com/playlist?list=PL_A4M5IAkMacSgRRlEkUB9v-gE1yxw_rG)
+-   [Matrices](https://www.youtube.com/playlist?list=PL_A4M5IAkMafsNaawDfrQl6EhgdEiWVD6)
+-   [Permutation and Combination](https://www.youtube.com/playlist?list=PL_A4M5IAkMae1vVGOC3Ptr4qXYZOqXvJa)
+-   [Vector and three Dimensional Geometry](https://www.youtube.com/playlist?list=PL_A4M5IAkMafmea0RnicbuLD6Ly2EIr0X)
+-   [Complex Number](https://www.youtube.com/playlist?list=PL_A4M5IAkMaeLzehBWWVD_EZL7EuaVP-X)
+-   [Determinants](https://www.youtube.com/playlist?list=PL_A4M5IAkMaex9aIhynPtk3ZO-xO_G2kJ)
+-   [Probability](https://www.youtube.com/playlist?list=PL_A4M5IAkMaf-WePkSulK_zt0yfQUrZgE)
+
+**Coordinate Geometry**
+
+-   [Straight Lines](https://www.youtube.com/playlist?list=PL_A4M5IAkMaf3M7rSq9M4NmLACdYuCQ_7)
+-   [Circles](https://www.youtube.com/playlist?list=PL_A4M5IAkMadiR6WFaUTQegpdKUJRD90D)
+-   [Parabola](https://www.youtube.com/playlist?list=PL_A4M5IAkMaeT3qAAgcvUXiKnM044FO44)
+-   [Ellipse](https://www.youtube.com/playlist?list=PL_A4M5IAkMae6_gCoLFltXl3bmtZmOvjQ)
+-   [Hyperbola](https://www.youtube.com/playlist?list=PL_A4M5IAkMaeaLAU22ViTSvk3T7AWxnT_)
+
+**Trigonometry**
+
+-   [Trigonometry -1 Ratio and Identities](https://www.youtube.com/playlist?list=PL_A4M5IAkMafhPkzpa16mbUDqD8d7bBhL)
+-   [Trigonometric Equation](https://www.youtube.com/playlist?list=PL_A4M5IAkMafsM4VwfCbZ8Oa4i_96R09n)
+-   [Solution/Properties of Triangle - Trigonometry Part -3](https://www.youtube.com/playlist?list=PL_A4M5IAkMaerL1K-p5sRRdzjNrqn72Rg)
+-   [Inverse Trigonometric Function](https://www.youtube.com/playlist?list=PL_A4M5IAkMacqcUtkJPTPXSrvNm_5NK-v)
+
